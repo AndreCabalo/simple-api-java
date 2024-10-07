@@ -1,4 +1,4 @@
-name: 01- workflow base
+name: 01- Base
 on: push
 jobs:
   job1-hello:

@@ -1,4 +1,4 @@
-name: 02 - Workflow Filtro
+name: 02 - Filtro
 on:
   push:
     branches: 'feature/**'
