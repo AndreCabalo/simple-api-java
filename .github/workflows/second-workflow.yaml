@@ -1,7 +1,7 @@
 name: 02 - Workflow Filtro
 on:
   push:
-    branches: 'feature/**'    EXECUTADO COM PREFIXO FEATURE/QUALQUERCOISA
+    branches: 'feature/**'
 jobs:
   echo:
     runs-on: ubuntu-latest
