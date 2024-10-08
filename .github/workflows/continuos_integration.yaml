@@ -17,4 +17,4 @@ jobs:
             distribution: 'temurin'
             java-version: '21'
       -   name: Unit tests
-          run: mvn testn test
+          run: mvn test
